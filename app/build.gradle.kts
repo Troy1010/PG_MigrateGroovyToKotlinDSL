@@ -2,6 +2,7 @@ plugins {
     id(Plugins.androidApplication)
     kotlin(Plugins.Kotlin.android)
     kotlin(Plugins.Kotlin.androidExtensions)
+    kotlin(Plugins.Kotlin.kapt)
 }
 
 android {
