@@ -1,2 +1,2 @@
 include(":app")
-rootProject.name = "PG_DevEnv"
+rootProject.name = "PG_MigrateGroovyToKotlinDSL"

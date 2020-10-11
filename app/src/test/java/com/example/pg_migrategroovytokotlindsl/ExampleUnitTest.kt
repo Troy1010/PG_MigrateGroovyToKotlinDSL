@@ -1,4 +1,4 @@
-package com.example.pg_devenv
+package com.example.pg_migrategroovytokotlindsl
 
 import org.junit.Test
 

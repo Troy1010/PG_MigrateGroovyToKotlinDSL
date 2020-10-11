@@ -10,7 +10,7 @@ android {
     buildToolsVersion = "30.0.2"
 
     defaultConfig {
-        applicationId = "com.example.pg_devenv"
+        applicationId = "com.example.pg_migrategroovytokotlindsl"
         minSdkVersion(16)
         targetSdkVersion(30)
         versionCode = 1
